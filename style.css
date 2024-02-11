@@ -1,1 +1,13 @@
-asd
+body{
+	display: flex;
+	justify-content:center;
+	align-content:center;
+}
+h1, h2, h3, p{
+	text-align: center;	
+}
+.output{
+	padding:2%;
+	display: flex;
+	justify-content:center;
+}
